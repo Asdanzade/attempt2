@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Salam,Dündfsdya");
+            Console.WriteLine("Salam,Dünya_2023");
         }
     }
 }
